@@ -1,12 +1,13 @@
 //PT-BR:
-👋 Olá! Sou João Emanuel de NATAL-RN e tenho 18 anos.
-Sou técnico em Redes de Computadores pelo SESI/SENAI -RN. 
-Tenho conhecimentos básicos em python, e estudo desenvolvimento web.
-Agora, devo focar em adquirir sempre mais conhecimentos na área de programação.
+👋 Olá! Sou João Emanuel, moro em NATAL-RN e tenho 18 anos.
+Sou técnico em Redes de Computadores pelo SESI/SENAI -RN. Sou estudante de programação 
+da linguagem em C++, e sei o básico da linguagem Python. Atualmente estou focado em adquirir mais 
+conhecimentos sobre a linguagem de programação C++, aplicando conceitos de POO, e utilizando os meus
+software na administração de redes.
 
 //ENGLISH:
-👋 Hi! I’m João Emanuel from NATAL-RN, Brazil.
-I'm 18 years old, and I'm from IT graduate by SESI/SENAI - RN.
-I've been learning how to be a Web Developer, and have knowledge on python language.
-For now, I gonna try do get knowledge on programming computer area.
-
+👋 Hi! I’m João Emanuel from NATAL-RN, Brazil and I'm 18 years old.
+I'm network administrator certified by SESI/SENAI - RN.
+A Dev student from C++ language, having basics knowledge of python. 
+Nowadays, I'm focus to get more knowledge about C++, using POO concepts 
+and employing my personal sofwtares on network.
