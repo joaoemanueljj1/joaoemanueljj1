@@ -9,5 +9,5 @@ software na administração de redes.
 👋 Hi! I’m João Emanuel from NATAL-RN, Brazil and I'm 18 years old.
 I'm network administrator certified by SESI/SENAI - RN.
 A Dev student from C++ language, having basics knowledge of python. 
-Nowadays, I'm focus to get more knowledge about C++, using POO concepts 
+Nowadays, I'm focus to get more knowledge about C++, using OOP concepts 
 and employing my personal sofwtares on network.
